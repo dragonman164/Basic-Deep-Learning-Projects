@@ -1,4 +1,4 @@
-# Basic Deep Learning Projectt
+# Basic Deep Learning Projects
 
 
 ### Basic Deep Learning Projects to summarize deep learning.
